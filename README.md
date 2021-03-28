@@ -7,4 +7,4 @@ the second exercise is on the K-nn algorithm: the goal is to compare the predict
 
 the third exercise is on the K-means and DB-scan algorithm: the goal is to determine if the two algorithms with statistical metrics obtain a good quantitative evaluation of the clusters in the three different datasets.
 
-the fourth exercise is on the Naive bayes method: the goal is to compare two models for probabilistic modeling of categorical data: Bernoulli multivariate and multinomial on a data set. We adopt a dataset on Twitter messages tagged with emotions (Joy vs Sadness). for the evaluation, the accuracy was calculated with the use of some statistical tests
+the fourth exercise is on the Naive bayes method: the goal is to compare two models for probabilistic modeling of categorical data: Bernoulli multivariate and multinomial on a data set. We adopt a dataset on Twitter messages tagged with emotions (Joy vs Sadness). for the evaluation, the accuracy was calculated with the use of some statistical tests.
